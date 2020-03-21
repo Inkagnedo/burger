@@ -1,0 +1,14 @@
+.container {
+    background-color: burlywood;
+    text-align: right;
+    font-size: 10px;
+}
+
+img{
+    height: 175px;
+    width: 175px;
+}
+
+body{
+    background-color: burlywood;
+}
